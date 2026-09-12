@@ -45,8 +45,8 @@ To develop a Java program that demonstrates multithreading with synchronization 
 ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber:  212225040024
+Developed by: Swetha A
+RegisterNumber:  212224040343
 */
 ```
 
