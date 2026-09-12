@@ -33,8 +33,8 @@ To write a Java program that reads a thread name from the user, assigns it to th
 ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber:  212225040024
+Developed by: Swetha A
+RegisterNumber:  212224040343
 */
 ```
 
