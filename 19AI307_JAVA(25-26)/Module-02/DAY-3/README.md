@@ -37,8 +37,8 @@ To implement a Java program demonstrating the concept of **access specifiers**, 
 ```
 /*
 Program to implement Access Specifiers using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
+Developed by: Swetha A
+RegisterNumber: 212224040343
 */
 ```
 
