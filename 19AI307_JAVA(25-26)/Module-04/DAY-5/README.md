@@ -30,8 +30,8 @@ To write a Java program that implements the State Design Pattern to simulate a f
 ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber:  212225040024
+Developed by: Swetha A
+RegisterNumber:  212224040343
 */
 ```
 
