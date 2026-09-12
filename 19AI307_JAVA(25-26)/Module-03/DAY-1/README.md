@@ -30,8 +30,8 @@ To write a Java program that demonstrates **inheritance** by creating a supercla
 ```
 /*
 Program to implement Inheritance and Aggregation using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
+Developed by: Swetha A
+RegisterNumber:  212224040343
 */
 ```
 
