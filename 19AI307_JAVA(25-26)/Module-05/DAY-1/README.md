@@ -28,8 +28,8 @@ To write a Java program that reads a string input from the keyboard using `Input
 ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber:  212225040024
+Developed by: Swetha A
+RegisterNumber:  212224040343
 */
 ```
 
