@@ -25,8 +25,8 @@ To write a Java program that demonstrates the use of a parameterized constructor
 ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
+Developed by: Swetha A
+RegisterNumber: 212224040343
 */
 ```
 
