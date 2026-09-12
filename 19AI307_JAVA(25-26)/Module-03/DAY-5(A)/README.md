@@ -31,8 +31,8 @@ To write a Java program that demonstrates the creation of an inner class and acc
 ```
 /*
 Program to implement a InnerClass using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
+Developed by: Swetha A
+RegisterNumber:  212224040343
 */
 ```
 
