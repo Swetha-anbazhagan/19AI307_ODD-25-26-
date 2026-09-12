@@ -25,8 +25,8 @@ To write a Java program that demonstrates **abstraction** using an abstract clas
 ```
 /*
 Program to implement Abstraction using Java
-Developed by: Antony Aswin Kumar L
-RegisterNumber: 212225040024
+Developed by: Swetha A
+RegisterNumber:  212224040343
 */
 ```
 
